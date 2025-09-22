@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 <!-- Profile README for SKS-0212 -->
 
 <h1 align="center">
-  Hi there, I'm Sachin Kumar Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Hi there, I'm Kushagra Bharti <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
 <h3 align="center">💻 A passionate Full Stack Developer from India 🚀</h3>
