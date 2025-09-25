@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **kushagr-a/kushagr-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +15,8 @@ Here are some ideas to get you started:
 
 ### 🔥 About Me
 - 🌱 Currently learning **Spring Boot**
-- 💬 Ask me about **Java | Flutter | Full-Stack Development**
-- 📫 Reach me at: **sachinkumarsingh0212.dev@gmail.com**
+- 💬 Ask me about **JavaScript | NODE | GOlang**
+- 📫 Reach me at: **kushagrabharrti16@gmail.com**
 - ⚡ Fun fact: *I turn coffee ☕ into code 💻*
 
 ---
