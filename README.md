@@ -9,7 +9,7 @@ Here are some ideas to get you started:
   Hi there, I'm Kushagra Bharti <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
-<h3 align="center">💻 A passionate Full Stack Developer from India 🚀</h3>
+<h3 align="center">💻 A passionate Backend Developer from India 🚀</h3>
 
 ---
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### ✨ Dynamic Typing Animation
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Flutter;Open+Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Backend+Developer;JavaScript+%7C+Node+Js+%7C+Golang;Open+Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things">
   </a>
 </p>
 
