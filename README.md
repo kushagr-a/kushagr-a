@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ### 🚀 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKS-0212&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagr-a&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
