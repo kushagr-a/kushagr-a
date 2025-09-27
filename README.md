@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKS-0212&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKS-0212&theme=radical" alt="Streak Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kushagr-a&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushagr-a&theme=radical" alt="Streak Stats" height="170"/>
 </p>
 
 ---
