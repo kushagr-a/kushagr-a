@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ### 🛠 Languages & Tools
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,ts,js,react,nodejs,express,mongodb,mysql,redis,git,github,heroku,linux,c,cpp,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,mysql,redis,git,github,heroku,c,cpp,html,css&theme=dark" />
 </p>
 
 ---
