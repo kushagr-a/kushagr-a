@@ -70,14 +70,14 @@ Here are some ideas to get you started:
 
 ### 🎉 Fun Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SKS-0212&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushagr-a&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SKS-0212&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kushagr-a&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 - 🔭 I’m currently working on ...
